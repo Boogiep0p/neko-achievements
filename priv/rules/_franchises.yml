@@ -4636,6 +4636,8 @@
   algo: duration
   filters: &462
     franchise: huyao_xiao_hongniang
+    not_anime_ids:
+    - 59291
   threshold: 95%
   metadata: &463
     title_ru: 'Сводники духов: Лисьи свахи'
@@ -5629,6 +5631,7 @@
     franchise: a_mortal_s_journey
     not_anime_ids:
     - 54444
+    - 60820
   threshold: 96.9%
   metadata: &569
     title_ru: Путешествие к бессмертию
@@ -6405,8 +6408,6 @@
     - 27461
     - 27465
     - 27467
-    - 36530
-    - 48245
     - 48250
     - 56909
     - 58992

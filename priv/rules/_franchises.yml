@@ -5600,6 +5600,7 @@
   generator: &565
     ignore_latest_ids:
     - 59275
+    - 61120
 - neko_id: pripara
   level: 0
   algo: duration
@@ -5949,8 +5950,6 @@
     - 6511
     - 6800
     - 7862
-    - 28401
-    - 30851
     - 39101
     - 39102
     - 39162

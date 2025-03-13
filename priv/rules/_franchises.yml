@@ -116,6 +116,8 @@
   algo: duration
   filters: &11
     franchise: demon_slayer
+    not_anime_ids:
+    - 61179
   threshold: 96%
   metadata: &12
     title_ru: Клинок, рассекающий демонов
@@ -220,6 +222,7 @@
     - 44200
     - 56196
     - 56685
+    - 61149
 - neko_id: boku_no_hero_academia
   level: 0
   algo: duration
